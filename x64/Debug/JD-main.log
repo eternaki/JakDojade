@@ -1,0 +1,17 @@
+﻿  city.cpp
+D:\Education\C++\All project\JD-main\JD-main\city.h(4,14): error C3646: 'name': unknown override specifier
+D:\Education\C++\All project\JD-main\JD-main\city.h(4,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  distance.cpp
+D:\Education\C++\All project\JD-main\JD-main\distance.h(4,14): error C3646: 'start': unknown override specifier
+D:\Education\C++\All project\JD-main\JD-main\distance.h(4,19): error C2059: syntax error: ','
+D:\Education\C++\All project\JD-main\JD-main\distance.h(4,27): error C2238: unexpected token(s) preceding ';'
+  graph.cpp
+D:\Education\C++\All project\JD-main\JD-main\graph.h(4,14): error C2143: syntax error: missing ';' before '<'
+D:\Education\C++\All project\JD-main\JD-main\graph.h(4,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Education\C++\All project\JD-main\JD-main\graph.h(4,36): error C2238: unexpected token(s) preceding ';'
+  programm.cpp
+D:\Education\C++\All project\JD-main\JD-main\programm.cpp(58,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Education\C++\All project\JD-main\JD-main\programm.cpp(73,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Education\C++\All project\JD-main\JD-main\programm.cpp(87,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Education\C++\All project\JD-main\JD-main\programm.cpp(101,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...

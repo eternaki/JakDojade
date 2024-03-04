@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (JD-main.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  programm.cpp
+D:\Education\C++\All project\JD-main\JD-main\programm.cpp(300,25): warning C4101: 'next_vertex': unreferenced local variable
+D:\Education\C++\All project\JD-main\JD-main\programm.cpp(300,12): warning C4101: 'j': unreferenced local variable
+D:\Education\C++\All project\JD-main\JD-main\programm.cpp(300,15): warning C4101: 'min_dist': unreferenced local variable
+  Jak_Dojade.vcxproj -> D:\Education\C++\All project\JD-main\JD-main\x64\Debug\Jak_Dojade.exe
